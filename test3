@@ -1,0 +1,5 @@
+$ mkdir github
+$ cd github
+$ mkdirgittest
+$ cd gittest
+$ git init
