@@ -1,0 +1,3 @@
+mkdir icsc
+cd icsc
+git init
